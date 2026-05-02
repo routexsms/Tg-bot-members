@@ -1,0 +1,9 @@
+{
+  "cooldown_seconds": 60,
+  "min_withdraw": 0.2,
+  "max_withdraw": 1.0,
+  "payment_methods": [
+    "Binance",
+    "bKash"
+  ]
+}
