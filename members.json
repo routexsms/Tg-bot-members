@@ -7,29 +7,33 @@
     "assigned_numbers": [
       {
         "number": "923360380452",
-        "rate": 0.005
+        "rate": 0.005,
+        "app": "Unknown"
       },
       {
         "number": "923337069506",
-        "rate": 0.005
+        "rate": 0.005,
+        "app": "Unknown"
       },
       {
         "number": "923325521392",
-        "rate": 0.005
+        "rate": 0.005,
+        "app": "Unknown"
       },
       {
         "number": "923357024437",
-        "rate": 0.005
+        "rate": 0.005,
+        "app": "Unknown"
       }
     ],
     "cooldowns": {
-      "Facebook|\ud83c\uddf5\ud83c\uddf0 Pakistan": 1777705022.1376693
+      "Facebook|🇵🇰 Pakistan": 1777705022.1376693
     },
     "balance": 0.0
   },
   {
     "id": 7646847122,
-    "name": "\ud80c\udda9\u23e4\u035f\u035e\ud83c\udde7\ud83c\udde9 \u2765\ufe0e\ud835\ude3f\ud835\ude4a\ud835\ude4d\ud835\ude40\ud835\ude48\ud835\ude4a\ud835\ude49 \u32db\ufe0e\u23e4\u035f\u035e\ud83c\uddf8\ud83c\udde9\u3114",
+    "name": "𓆩⏤͟͞🇧🇩 ❥︎𝘿𝙊𝙍𝙀𝙈𝙊𝙉 ㋛︎⏤͟͞🇸🇩ㄔ",
     "username": "Teamredadmin",
     "country": "English",
     "assigned_numbers": [],
