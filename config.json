@@ -6,5 +6,6 @@
     "bKash"
   ],
   "api_interval": 3,
-  "request_time": 4
+  "request_time": 4,
+  "assign_time_minutes": 3
 }
