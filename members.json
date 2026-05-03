@@ -24,10 +24,31 @@
         "number": "923357024437",
         "rate": 0.005,
         "app": "Unknown"
+      },
+      {
+        "number": "201503191240",
+        "rate": 0.001,
+        "app": "Facebook"
+      },
+      {
+        "number": "201509212391",
+        "rate": 0.001,
+        "app": "Facebook"
+      },
+      {
+        "number": "201550835207",
+        "rate": 0.001,
+        "app": "Facebook"
+      },
+      {
+        "number": "201505737316",
+        "rate": 0.001,
+        "app": "Facebook"
       }
     ],
     "cooldowns": {
-      "Facebook|🇵🇰 Pakistan": 1777705022.1376693
+      "Facebook|🇵🇰 Pakistan": 1777705022.1376693,
+      "Facebook|Egypt (EG) 🇪🇬": 1777785405.4082768
     },
     "balance": 0.0
   },
