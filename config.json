@@ -4,5 +4,6 @@
   "max_withdraw": 1.0,
   "payment_methods": [
     "bKash"
-  ]
+  ],
+  "api_interval": 3
 }
