@@ -79,6 +79,34 @@
         "number": "201558817643",
         "rate": 0.001,
         "app": "Facebook"
+      },
+      {
+        "number": "201553520394",
+        "rate": 0.001,
+        "app": "Facebook",
+        "country": "Egypt (EG) 🇪🇬",
+        "assigned_at": 1777798994.1488833
+      },
+      {
+        "number": "201515623726",
+        "rate": 0.001,
+        "app": "Facebook",
+        "country": "Egypt (EG) 🇪🇬",
+        "assigned_at": 1777798994.1488833
+      },
+      {
+        "number": "201554536272",
+        "rate": 0.001,
+        "app": "Facebook",
+        "country": "Egypt (EG) 🇪🇬",
+        "assigned_at": 1777798994.1488833
+      },
+      {
+        "number": "201550391314",
+        "rate": 0.001,
+        "app": "Facebook",
+        "country": "Egypt (EG) 🇪🇬",
+        "assigned_at": 1777798994.1488833
       }
     ],
     "cooldowns": {
