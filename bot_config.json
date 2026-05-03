@@ -1,5 +1,10 @@
 {
-  "otp_bots": [],
+  "otp_bots": [
+    {
+      "token": "8692178499:AAG2YMo76p85PUOrVwMFDNdKfH7T7TiHi0A",
+      "username": "Qhahqhwbot"
+    }
+  ],
   "group_id": "",
   "saved_apps": [
     "Facebook"
