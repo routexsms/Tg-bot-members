@@ -59,11 +59,31 @@
         "number": "201553498222",
         "rate": 0.001,
         "app": "Facebook"
+      },
+      {
+        "number": "201504073967",
+        "rate": 0.001,
+        "app": "Facebook"
+      },
+      {
+        "number": "201500742044",
+        "rate": 0.001,
+        "app": "Facebook"
+      },
+      {
+        "number": "201502880231",
+        "rate": 0.001,
+        "app": "Facebook"
+      },
+      {
+        "number": "201558817643",
+        "rate": 0.001,
+        "app": "Facebook"
       }
     ],
     "cooldowns": {
       "Facebook|🇵🇰 Pakistan": 1777705022.1376693,
-      "Facebook|Egypt (EG) 🇪🇬": 1777791161.5002973
+      "Facebook|Egypt (EG) 🇪🇬": 1777793041.5189416
     },
     "balance": 0.001,
     "otp_history": [
