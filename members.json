@@ -51,11 +51,6 @@
         "app": "Facebook"
       },
       {
-        "number": "201555402021",
-        "rate": 0.001,
-        "app": "Facebook"
-      },
-      {
         "number": "201501403576",
         "rate": 0.001,
         "app": "Facebook"
@@ -70,7 +65,13 @@
       "Facebook|🇵🇰 Pakistan": 1777705022.1376693,
       "Facebook|Egypt (EG) 🇪🇬": 1777791161.5002973
     },
-    "balance": 0.0
+    "balance": 0.001,
+    "otp_history": [
+      {
+        "time": 1777791935.220002,
+        "app": "Facebook"
+      }
+    ]
   },
   {
     "id": 7646847122,
