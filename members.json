@@ -4,7 +4,36 @@
     "name": "Mia vau",
     "username": "stex_sms",
     "country": "English",
-    "assigned_numbers": [],
+    "assigned_numbers": [
+      {
+        "number": "4915510442015",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777876260.2291317
+      },
+      {
+        "number": "4915568314831",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777876260.2291317
+      },
+      {
+        "number": "4915781181900",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777876260.2291317
+      },
+      {
+        "number": "4915511459006",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777876260.2291317
+      }
+    ],
     "cooldowns": {
       "Facebook|🇵🇰 Pakistan": 1777705022.1376693,
       "Facebook|Egypt (EG) 🇪🇬": 1777793041.5189416
