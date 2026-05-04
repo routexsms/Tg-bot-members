@@ -6,7 +6,7 @@
     "amount": 0.2,
     "method": "bKash",
     "pay_id": "01960447264",
-    "status": "pending",
+    "status": "approved",
     "time": 1777903481.4390485
   }
 ]
