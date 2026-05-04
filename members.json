@@ -4,41 +4,12 @@
     "name": "Mia vau",
     "username": "stex_sms",
     "country": "English",
-    "assigned_numbers": [
-      {
-        "number": "261349968396",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777926104.508555
-      },
-      {
-        "number": "261343635678",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777926104.508555
-      },
-      {
-        "number": "261344017323",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777926104.508555
-      },
-      {
-        "number": "261349246975",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777926104.508555
-      }
-    ],
+    "assigned_numbers": [],
     "cooldowns": {
       "Facebook|🇵🇰 Pakistan": 1777705022.1376693,
       "Facebook|Egypt (EG) 🇪🇬": 1777793041.5189416
     },
-    "balance": 0.009,
+    "balance": 0.017,
     "otp_history": [
       {
         "time": 1777791935.220002,
@@ -47,6 +18,15 @@
       {
         "time": 1777921321.314625,
         "app": "Facebook"
+      },
+      {
+        "time": 1777926178.1315513,
+        "app": "Facebook"
+      },
+      {
+        "time": 1777926178.1302617,
+        "app": "Facebook",
+        "country": "Madagascar (MG) 🇲🇬"
       }
     ],
     "lang": "English"
