@@ -23,29 +23,7 @@
     "name": "𓆩⏤͟͞🇧🇩 ❥︎𝘿𝙊𝙍𝙀𝙈𝙊𝙉 ㋛︎⏤͟͞🇸🇩ㄔ",
     "username": "Teamredadmin",
     "country": "English",
-    "assigned_numbers": [
-      {
-        "number": "261345629042",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777919109.9125712
-      },
-      {
-        "number": "261344809638",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777919109.9125712
-      },
-      {
-        "number": "261344221006",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777919109.9125712
-      }
-    ],
+    "assigned_numbers": [],
     "cooldowns": {},
     "balance": 9.824,
     "lang": "Bangla",
