@@ -60,6 +60,34 @@
         "app": "WhatsApp",
         "country": "Germany (DE) 🇩🇪",
         "assigned_at": 1777876550.6875136
+      },
+      {
+        "number": "4915510447024",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777876709.2448714
+      },
+      {
+        "number": "4915510819347",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777876709.2448714
+      },
+      {
+        "number": "4915510865485",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777876709.2448714
+      },
+      {
+        "number": "4915510589404",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777876709.2448714
       }
     ],
     "cooldowns": {
