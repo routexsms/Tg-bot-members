@@ -5,7 +5,7 @@
   "payment_methods": [
     "bKash"
   ],
-  "api_interval": 3,
+  "api_interval": 5,
   "request_time": 4,
   "assign_time_minutes": 10,
   "api_cookie": "pg688ugsk02qgiherd4crs4b2p"
