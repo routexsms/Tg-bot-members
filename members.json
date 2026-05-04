@@ -22,36 +22,7 @@
     "name": "𓆩⏤͟͞🇧🇩 ❥︎𝘿𝙊𝙍𝙀𝙈𝙊𝙉 ㋛︎⏤͟͞🇸🇩ㄔ",
     "username": "Teamredadmin",
     "country": "English",
-    "assigned_numbers": [
-      {
-        "number": "4915511121676",
-        "rate": 0.0001,
-        "app": "WhatsApp",
-        "country": "Germany (DE) 🇩🇪",
-        "assigned_at": 1777869112.702227
-      },
-      {
-        "number": "4915511170436",
-        "rate": 0.0001,
-        "app": "WhatsApp",
-        "country": "Germany (DE) 🇩🇪",
-        "assigned_at": 1777869112.702227
-      },
-      {
-        "number": "4915510353603",
-        "rate": 0.0001,
-        "app": "WhatsApp",
-        "country": "Germany (DE) 🇩🇪",
-        "assigned_at": 1777869112.702227
-      },
-      {
-        "number": "4915510935547",
-        "rate": 0.0001,
-        "app": "WhatsApp",
-        "country": "Germany (DE) 🇩🇪",
-        "assigned_at": 1777869112.702227
-      }
-    ],
+    "assigned_numbers": [],
     "cooldowns": {},
     "balance": 0.0
   }
