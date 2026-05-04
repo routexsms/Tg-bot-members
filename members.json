@@ -42,36 +42,7 @@
     "name": "Yenz",
     "username": "YenzRichh",
     "lang": "English",
-    "assigned_numbers": [
-      {
-        "number": "4915561306729",
-        "rate": 0.0001,
-        "app": "WhatsApp",
-        "country": "Germany (DE) 🇩🇪",
-        "assigned_at": 1777910115.1421113
-      },
-      {
-        "number": "4915510586295",
-        "rate": 0.0001,
-        "app": "WhatsApp",
-        "country": "Germany (DE) 🇩🇪",
-        "assigned_at": 1777910115.1421113
-      },
-      {
-        "number": "4915511684022",
-        "rate": 0.0001,
-        "app": "WhatsApp",
-        "country": "Germany (DE) 🇩🇪",
-        "assigned_at": 1777910115.1421113
-      },
-      {
-        "number": "4915781181953",
-        "rate": 0.0001,
-        "app": "WhatsApp",
-        "country": "Germany (DE) 🇩🇪",
-        "assigned_at": 1777910115.1421113
-      }
-    ],
+    "assigned_numbers": [],
     "balance": 0.0,
     "otp_history": []
   }
