@@ -6,13 +6,6 @@
     "country": "English",
     "assigned_numbers": [
       {
-        "number": "261346647767",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777921227.613315
-      },
-      {
         "number": "261342736653",
         "rate": 0.008,
         "app": "Facebook",
@@ -38,10 +31,14 @@
       "Facebook|🇵🇰 Pakistan": 1777705022.1376693,
       "Facebook|Egypt (EG) 🇪🇬": 1777793041.5189416
     },
-    "balance": 0.001,
+    "balance": 0.009,
     "otp_history": [
       {
         "time": 1777791935.220002,
+        "app": "Facebook"
+      },
+      {
+        "time": 1777921321.314625,
         "app": "Facebook"
       }
     ],
