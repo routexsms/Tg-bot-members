@@ -25,20 +25,6 @@
     "country": "English",
     "assigned_numbers": [
       {
-        "number": "261344511348",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777918663.352044
-      },
-      {
-        "number": "261344456121",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777918663.352044
-      },
-      {
         "number": "261342911670",
         "rate": 0.008,
         "app": "Facebook",
@@ -67,13 +53,6 @@
         "assigned_at": 1777918898.5658448
       },
       {
-        "number": "261346826479",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777919109.9125712
-      },
-      {
         "number": "261345629042",
         "rate": 0.008,
         "app": "Facebook",
@@ -96,7 +75,7 @@
       }
     ],
     "cooldowns": {},
-    "balance": 9.816,
+    "balance": 9.824,
     "lang": "Bangla",
     "otp_history": [
       {
@@ -105,6 +84,10 @@
       },
       {
         "time": 1777918883.3574448,
+        "app": "Facebook"
+      },
+      {
+        "time": 1777919225.5463943,
         "app": "Facebook"
       }
     ]
