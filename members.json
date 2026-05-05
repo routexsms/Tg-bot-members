@@ -88,6 +88,34 @@
         "app": "Facebook",
         "country": "Madagascar (MG) 🇲🇬",
         "assigned_at": 1777956030.2655194
+      },
+      {
+        "number": "261342945056",
+        "rate": 0.008,
+        "app": "Facebook",
+        "country": "Madagascar (MG) 🇲🇬",
+        "assigned_at": 1777956245.4406474
+      },
+      {
+        "number": "261341378652",
+        "rate": 0.008,
+        "app": "Facebook",
+        "country": "Madagascar (MG) 🇲🇬",
+        "assigned_at": 1777956245.4406474
+      },
+      {
+        "number": "261347033411",
+        "rate": 0.008,
+        "app": "Facebook",
+        "country": "Madagascar (MG) 🇲🇬",
+        "assigned_at": 1777956245.4406474
+      },
+      {
+        "number": "261346974604",
+        "rate": 0.008,
+        "app": "Facebook",
+        "country": "Madagascar (MG) 🇲🇬",
+        "assigned_at": 1777956245.4406474
       }
     ],
     "balance": 0.0,
