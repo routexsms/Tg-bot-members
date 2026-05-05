@@ -60,36 +60,7 @@
     "name": "⏤͟͞🇧🇩 ❥ 𝗘𝗺𝗼𝗻 ✿⏤͟͞🇵🇸ㄔ",
     "username": "nn_emon",
     "lang": "English",
-    "assigned_numbers": [
-      {
-        "number": "261341529475",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777956632.3370306
-      },
-      {
-        "number": "261345937915",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777956632.3370306
-      },
-      {
-        "number": "261342782167",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777956632.3370306
-      },
-      {
-        "number": "261346597312",
-        "rate": 0.008,
-        "app": "Facebook",
-        "country": "Madagascar (MG) 🇲🇬",
-        "assigned_at": 1777956632.3370306
-      }
-    ],
+    "assigned_numbers": [],
     "balance": 0.008,
     "otp_history": [
       {
