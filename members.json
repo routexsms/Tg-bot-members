@@ -36,35 +36,7 @@
     "name": "𓆩⏤͟͞🇧🇩 ❥︎𝘿𝙊𝙍𝙀𝙈𝙊𝙉 ㋛︎⏤͟͞🇸🇩ㄔ",
     "username": "Teamredadmin",
     "country": "English",
-    "assigned_numbers": [
-      {
-        "number": "+923340542298",
-        "rate": 0.0,
-        "app": "WhatsApp",
-        "country": "Pakistan (PK) 🇵🇰",
-        "assigned_at": 1777999660.3868153,
-        "stex_range": "923340542XXX",
-        "otp_received": false
-      },
-      {
-        "number": "+923340542785",
-        "rate": 0.0,
-        "app": "WhatsApp",
-        "country": "Pakistan (PK) 🇵🇰",
-        "assigned_at": 1777999660.3975325,
-        "stex_range": "923340542XXX",
-        "otp_received": false
-      },
-      {
-        "number": "+923340542328",
-        "rate": 0.0,
-        "app": "WhatsApp",
-        "country": "Pakistan (PK) 🇵🇰",
-        "assigned_at": 1777999660.4036508,
-        "stex_range": "923340542XXX",
-        "otp_received": false
-      }
-    ],
+    "assigned_numbers": [],
     "cooldowns": {},
     "balance": 9.824,
     "lang": "Bangla",
