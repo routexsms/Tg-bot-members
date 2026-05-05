@@ -22,6 +22,33 @@
         "assigned_at": 1778007847.5118983,
         "stex_range": "923323196XXX",
         "otp_received": false
+      },
+      {
+        "number": "+923340542788",
+        "rate": 0.0,
+        "app": "WhatsApp",
+        "country": "Pakistan (PK) 🇵🇰",
+        "assigned_at": 1778007936.2982955,
+        "stex_range": "923340542XXX",
+        "otp_received": false
+      },
+      {
+        "number": "+923340542793",
+        "rate": 0.0,
+        "app": "WhatsApp",
+        "country": "Pakistan (PK) 🇵🇰",
+        "assigned_at": 1778007936.8065348,
+        "stex_range": "923340542XXX",
+        "otp_received": false
+      },
+      {
+        "number": "+923340542557",
+        "rate": 0.0,
+        "app": "WhatsApp",
+        "country": "Pakistan (PK) 🇵🇰",
+        "assigned_at": 1778007936.8065407,
+        "stex_range": "923340542XXX",
+        "otp_received": false
       }
     ],
     "cooldowns": {
