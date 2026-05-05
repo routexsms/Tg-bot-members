@@ -38,13 +38,6 @@
     "country": "English",
     "assigned_numbers": [
       {
-        "number": "+237621913258",
-        "rate": 0.0,
-        "app": "Facebook",
-        "country": "Cameroon (CM) 🇨🇲",
-        "assigned_at": 1777972402.6318946
-      },
-      {
         "number": "4915510273631",
         "rate": 0.0001,
         "app": "WhatsApp",
