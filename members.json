@@ -36,7 +36,15 @@
     "name": "𓆩⏤͟͞🇧🇩 ❥︎𝘿𝙊𝙍𝙀𝙈𝙊𝙉 ㋛︎⏤͟͞🇸🇩ㄔ",
     "username": "Teamredadmin",
     "country": "English",
-    "assigned_numbers": [],
+    "assigned_numbers": [
+      {
+        "number": "+237621913258",
+        "rate": 0.0,
+        "app": "Facebook",
+        "country": "Cameroon (CM) 🇨🇲",
+        "assigned_at": 1777972402.6318946
+      }
+    ],
     "cooldowns": {},
     "balance": 9.824,
     "lang": "Bangla",
