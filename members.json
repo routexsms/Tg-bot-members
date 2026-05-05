@@ -84,26 +84,7 @@
     "name": "Ismail Hossain",
     "username": "IsmailTamim7",
     "lang": "English",
-    "assigned_numbers": [
-      {
-        "number": "+923323196286",
-        "rate": 0.0,
-        "app": "WhatsApp",
-        "country": "Pakistan",
-        "assigned_at": 1778008939.835376,
-        "stex_range": "923323196XXX",
-        "otp_received": false
-      },
-      {
-        "number": "+923323196488",
-        "rate": 0.0,
-        "app": "WhatsApp",
-        "country": "Pakistan",
-        "assigned_at": 1778008939.8374832,
-        "stex_range": "923323196XXX",
-        "otp_received": false
-      }
-    ],
+    "assigned_numbers": [],
     "balance": 0.0,
     "otp_history": []
   }
