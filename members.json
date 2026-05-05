@@ -43,6 +43,34 @@
         "app": "Facebook",
         "country": "Cameroon (CM) 🇨🇲",
         "assigned_at": 1777972402.6318946
+      },
+      {
+        "number": "4915510273631",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777972700.7104857
+      },
+      {
+        "number": "4915511660463",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777972700.7104857
+      },
+      {
+        "number": "4915511104040",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777972700.7104857
+      },
+      {
+        "number": "4915511965724",
+        "rate": 0.0001,
+        "app": "WhatsApp",
+        "country": "Germany (DE) 🇩🇪",
+        "assigned_at": 1777972700.7104857
       }
     ],
     "cooldowns": {},
