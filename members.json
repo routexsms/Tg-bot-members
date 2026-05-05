@@ -36,44 +36,7 @@
     "name": "𓆩⏤͟͞🇧🇩 ❥︎𝘿𝙊𝙍𝙀𝙈𝙊𝙉 ㋛︎⏤͟͞🇸🇩ㄔ",
     "username": "Teamredadmin",
     "country": "English",
-    "assigned_numbers": [
-      {
-        "number": "+5363237793",
-        "rate": 0.0,
-        "app": "WhatsApp",
-        "country": "Cuba",
-        "assigned_at": 1777994788.1766624,
-        "stex_range": "5363237XXX",
-        "otp_received": false
-      },
-      {
-        "number": "+5363237628",
-        "rate": 0.0,
-        "app": "WhatsApp",
-        "country": "Cuba",
-        "assigned_at": 1777994788.5146635,
-        "stex_range": "5363237XXX",
-        "otp_received": false
-      },
-      {
-        "number": "+5363237641",
-        "rate": 0.0,
-        "app": "WhatsApp",
-        "country": "Cuba",
-        "assigned_at": 1777994788.8877451,
-        "stex_range": "5363237XXX",
-        "otp_received": false
-      },
-      {
-        "number": "+5363237113",
-        "rate": 0.0,
-        "app": "WhatsApp",
-        "country": "Cuba",
-        "assigned_at": 1777994789.264201,
-        "stex_range": "5363237XXX",
-        "otp_received": false
-      }
-    ],
+    "assigned_numbers": [],
     "cooldowns": {},
     "balance": 9.824,
     "lang": "Bangla",
