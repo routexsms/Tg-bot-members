@@ -4,7 +4,26 @@
     "name": "Mia vau",
     "username": "stex_sms",
     "country": "English",
-    "assigned_numbers": [],
+    "assigned_numbers": [
+      {
+        "number": "+923323196757",
+        "rate": 0.0,
+        "app": "WhatsApp",
+        "country": "Pakistan",
+        "assigned_at": 1778007847.2791946,
+        "stex_range": "923323196XXX",
+        "otp_received": false
+      },
+      {
+        "number": "+923323196830",
+        "rate": 0.0,
+        "app": "WhatsApp",
+        "country": "Pakistan",
+        "assigned_at": 1778007847.5118983,
+        "stex_range": "923323196XXX",
+        "otp_received": false
+      }
+    ],
     "cooldowns": {
       "Facebook|🇵🇰 Pakistan": 1777705022.1376693,
       "Facebook|Egypt (EG) 🇪🇬": 1777793041.5189416
