@@ -9,5 +9,7 @@
   "request_time": 4,
   "assign_time_minutes": 10,
   "api_cookie": "6cvdsoefvpreptfq7n31nk320q",
-  "stex_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJNX01MOVlPM0VOVCIsInJvbGUiOiJ1c2VyIiwiYWNjZXNzX3BhdGgiOlsiL2Rhc2hib2FyZCJdLCJleHBpcnkiOjE3NzgwNTU3NTgsImNyZWF0ZWQiOjE3Nzc5NjkzNTgsIjJvbzkiOiJNc0giLCJleHAiOjE3NzgwNTU3NTgsImlhdCI6MTc3Nzk2OTM1OCwic3ViIjoiTV9NTDlZTzNFTlQifQ.-tBFjnCLkYS8cddK50Jjp5bPGiZCr0wyBae-JlVa2i4"
+  "stex_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJNX01MOVlPM0VOVCIsInJvbGUiOiJ1c2VyIiwiYWNjZXNzX3BhdGgiOlsiL2Rhc2hib2FyZCJdLCJleHBpcnkiOjE3Nzk2NDg3MTcsImNyZWF0ZWQiOjE3Nzk1NjIzMTcsIjJvbzkiOiJNc0giLCJleHAiOjE3Nzk2NDg3MTcsImlhdCI6MTc3OTU2MjMxNywic3ViIjoiTV9NTDlZTzNFTlQifQ._mNJlgsfflZ4s15pJah8SXqqugcyDzeOpePNZ-h9Ig4",
+  "stex_status": "on",
+  "flyn_status": "on"
 }
