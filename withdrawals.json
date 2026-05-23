@@ -27,7 +27,8 @@
     "amount": 1.0,
     "method": "bKash",
     "pay_id": "01960447264",
-    "status": "pending",
-    "time": 1779564190.1767402
+    "status": "approved",
+    "time": 1779564190.1767402,
+    "approved_by": "𓆩⏤͟͞🇧🇩 ❥︎𝘿𝙊𝙍𝙀𝙈𝙊𝙉 ㋛︎⏤͟͞🇸🇩ㄔ"
   }
 ]
