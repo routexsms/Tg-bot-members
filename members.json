@@ -36,7 +36,44 @@
     "name": "𓆩⏤͟͞🇧🇩 ❥︎𝘿𝙊𝙍𝙀𝙈𝙊𝙉 ㋛︎⏤͟͞🇸🇩ㄔ",
     "username": "Teamredadmin",
     "country": "English",
-    "assigned_numbers": [],
+    "assigned_numbers": [
+      {
+        "number": "+22363188113",
+        "rate": 0.0,
+        "app": "WhatsApp",
+        "country": "Mali",
+        "assigned_at": 1779564023.968899,
+        "stex_range": "22363188XXX",
+        "otp_received": false
+      },
+      {
+        "number": "+22363188567",
+        "rate": 0.0,
+        "app": "WhatsApp",
+        "country": "Mali",
+        "assigned_at": 1779564024.341967,
+        "stex_range": "22363188XXX",
+        "otp_received": false
+      },
+      {
+        "number": "+22363188531",
+        "rate": 0.0,
+        "app": "WhatsApp",
+        "country": "Mali",
+        "assigned_at": 1779564024.343482,
+        "stex_range": "22363188XXX",
+        "otp_received": false
+      },
+      {
+        "number": "+22363188820",
+        "rate": 0.0,
+        "app": "WhatsApp",
+        "country": "Mali",
+        "assigned_at": 1779564024.343482,
+        "stex_range": "22363188XXX",
+        "otp_received": false
+      }
+    ],
     "cooldowns": {},
     "balance": 9.824,
     "lang": "Bangla",
