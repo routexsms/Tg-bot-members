@@ -23,7 +23,7 @@
             "balance": 0.001,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1779893110,
+            "last_number_time": 1779893527,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
@@ -65,7 +65,7 @@
             "balance": 0.0,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1779892082,
+            "last_number_time": 1779893647,
             "wa_linked": 1,
             "otp_taken_count": null,
             "lang": "en"
@@ -524,9 +524,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8454645122,
+            "sold_at": 1779893527
         },
         {
             "id": 39,
@@ -536,9 +536,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8454645122,
+            "sold_at": 1779893527
         },
         {
             "id": 40,
@@ -548,9 +548,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8454645122,
+            "sold_at": 1779893527
         },
         {
             "id": 41,
@@ -560,9 +560,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8454645122,
+            "sold_at": 1779893527
         },
         {
             "id": 42,
@@ -572,9 +572,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8456789370,
+            "sold_at": 1779893639
         },
         {
             "id": 43,
@@ -584,9 +584,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8456789370,
+            "sold_at": 1779893639
         },
         {
             "id": 44,
@@ -596,9 +596,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8456789370,
+            "sold_at": 1779893639
         },
         {
             "id": 45,
@@ -608,9 +608,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8456789370,
+            "sold_at": 1779893639
         },
         {
             "id": 46,
@@ -620,9 +620,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8456789370,
+            "sold_at": 1779893647
         },
         {
             "id": 47,
@@ -632,9 +632,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8456789370,
+            "sold_at": 1779893647
         },
         {
             "id": 48,
@@ -644,9 +644,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8456789370,
+            "sold_at": 1779893647
         },
         {
             "id": 49,
@@ -656,9 +656,9 @@
             "country_code": "234",
             "country_name": "Nigeria",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8456789370,
+            "sold_at": 1779893647
         },
         {
             "id": 50,
