@@ -23,7 +23,7 @@
             "balance": 0.001,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1779894785,
+            "last_number_time": 1779900907,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
@@ -1307,6 +1307,18 @@
             "status": "available",
             "sold_to_user_id": null,
             "sold_at": null
+        },
+        {
+            "id": 104,
+            "bot_token": "8334537137:AAF0O-tKRNmHD7B6SlWR8oG4khH0UnwPMIc",
+            "app_name": "whatsapp",
+            "number": "22792183413",
+            "country_code": "227",
+            "country_name": "Niger",
+            "otp_rate": 0.0,
+            "status": "sold",
+            "sold_to_user_id": 8454645122,
+            "sold_at": 1779900907
         }
     ],
     "withdrawals": [
