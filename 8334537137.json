@@ -23,7 +23,7 @@
             "balance": 0.001,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1779902088,
+            "last_number_time": 1779902908,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
@@ -80,9 +80,9 @@
             "country_code": "84",
             "country_name": "Vietnam",
             "otp_rate": 0.0,
-            "status": "sold",
-            "sold_to_user_id": 8456789370,
-            "sold_at": 1779902372
+            "status": "available",
+            "sold_to_user_id": null,
+            "sold_at": null
         },
         {
             "id": 2,
@@ -1316,9 +1316,9 @@
             "country_code": "227",
             "country_name": "Niger",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8454645122,
+            "sold_at": 1779902908
         },
         {
             "id": 105,
@@ -1328,9 +1328,9 @@
             "country_code": "227",
             "country_name": "Niger",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8454645122,
+            "sold_at": 1779902908
         }
     ],
     "withdrawals": [
