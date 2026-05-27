@@ -1328,9 +1328,9 @@
             "country_code": "227",
             "country_name": "Niger",
             "otp_rate": 0.0,
-            "status": "sold",
-            "sold_to_user_id": 8454645122,
-            "sold_at": 1779902088
+            "status": "available",
+            "sold_to_user_id": null,
+            "sold_at": null
         }
     ],
     "withdrawals": [
