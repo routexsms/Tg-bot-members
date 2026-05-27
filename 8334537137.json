@@ -23,7 +23,7 @@
             "balance": 0.001,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1779901659,
+            "last_number_time": 1779902088,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
@@ -65,7 +65,7 @@
             "balance": 0.0,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1779895112,
+            "last_number_time": 1779902372,
             "wa_linked": 1,
             "otp_taken_count": null,
             "lang": "en"
@@ -80,9 +80,9 @@
             "country_code": "84",
             "country_name": "Vietnam",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 8456789370,
+            "sold_at": 1779902372
         },
         {
             "id": 2,
@@ -1316,9 +1316,21 @@
             "country_code": "227",
             "country_name": "Niger",
             "otp_rate": 0.0,
+            "status": "available",
+            "sold_to_user_id": null,
+            "sold_at": null
+        },
+        {
+            "id": 105,
+            "bot_token": "8334537137:AAF0O-tKRNmHD7B6SlWR8oG4khH0UnwPMIc",
+            "app_name": "whatsapp",
+            "number": "22783370747",
+            "country_code": "227",
+            "country_name": "Niger",
+            "otp_rate": 0.0,
             "status": "sold",
             "sold_to_user_id": 8454645122,
-            "sold_at": 1779901659
+            "sold_at": 1779902088
         }
     ],
     "withdrawals": [
@@ -1340,24 +1352,7 @@
             "channel_username": "@team_RedX"
         }
     ],
-    "payment_methods": [
-        {
-            "id": 1,
-            "bot_token": "8334537137:AAF0O-tKRNmHD7B6SlWR8oG4khH0UnwPMIc",
-            "method_name": "bkash",
-            "min_amount": 0.01,
-            "max_amount": 10.0,
-            "is_active": 1
-        },
-        {
-            "id": 2,
-            "bot_token": "8334537137:AAF0O-tKRNmHD7B6SlWR8oG4khH0UnwPMIc",
-            "method_name": "bkash",
-            "min_amount": 10.0,
-            "max_amount": 100.0,
-            "is_active": 1
-        }
-    ],
+    "payment_methods": [],
     "config": {
         "admin_ids": null,
         "sub_admin_ids": "[8456789370]",
