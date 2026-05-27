@@ -52,9 +52,9 @@
             "country_code": "84",
             "country_name": "Vietnam",
             "otp_rate": 0.0,
-            "status": "sold",
-            "sold_to_user_id": 7646847122,
-            "sold_at": 1779888918
+            "status": "available",
+            "sold_to_user_id": null,
+            "sold_at": null
         }
     ],
     "withdrawals": [
