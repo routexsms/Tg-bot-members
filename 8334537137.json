@@ -44,7 +44,13 @@
         }
     ],
     "withdrawals": [],
-    "channels": [],
+    "channels": [
+        {
+            "id": 1,
+            "bot_token": "8334537137:AAFBl3-Y9vbvzrxbZ483zW69TsOf0CjWbbk",
+            "channel_username": "@team_RedX"
+        }
+    ],
     "payment_methods": [],
     "config": {
         "admin_ids": null,
