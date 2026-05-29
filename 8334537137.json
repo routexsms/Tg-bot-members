@@ -8,7 +8,7 @@
             "joined_at": "2026-05-30 01:47:57.998394",
             "balance": 0.001,
             "referred_by": null,
-            "banned": null,
+            "banned": 0,
             "last_number_time": null,
             "wa_linked": null,
             "otp_taken_count": null,
@@ -23,7 +23,7 @@
             "balance": 0.0,
             "referred_by": 7646847122,
             "banned": null,
-            "last_number_time": 1780084952,
+            "last_number_time": 1780085187,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
@@ -38,9 +38,9 @@
             "country_code": "227",
             "country_name": "Niger",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "finished",
+            "sold_to_user_id": 8454645122,
+            "sold_at": 1780085187
         }
     ],
     "withdrawals": [],
