@@ -9,6 +9,8 @@
         "sub_admin_ids": "[8456789370]",
         "balance_on": 1,
         "refer_on": 1,
-        "refer_reward": 0.001
+        "refer_reward": 0.001,
+        "maintenance_on": 1,
+        "maintenance_msg": null
     }
 }
