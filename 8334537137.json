@@ -1330,9 +1330,9 @@
             "country_code": "227",
             "country_name": "Niger",
             "otp_rate": 0.0,
-            "status": "sold",
-            "sold_to_user_id": 7646847122,
-            "sold_at": 1780075570
+            "status": "available",
+            "sold_to_user_id": null,
+            "sold_at": null
         },
         {
             "id": 105,
@@ -1342,9 +1342,9 @@
             "country_code": "227",
             "country_name": "Niger",
             "otp_rate": 0.0,
-            "status": "sold",
-            "sold_to_user_id": 7646847122,
-            "sold_at": 1780075570
+            "status": "available",
+            "sold_to_user_id": null,
+            "sold_at": null
         }
     ],
     "withdrawals": [
