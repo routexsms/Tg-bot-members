@@ -1,5 +1,20 @@
 {
-    "users": [],
+    "users": [
+        {
+            "id": 7,
+            "bot_token": "8334537137:AAFBl3-Y9vbvzrxbZ483zW69TsOf0CjWbbk",
+            "user_id": 8454645122,
+            "username": "Access_adder",
+            "joined_at": "2026-05-29 23:55:31.228718",
+            "balance": 0.0,
+            "referred_by": null,
+            "banned": null,
+            "last_number_time": null,
+            "wa_linked": null,
+            "otp_taken_count": null,
+            "lang": "en"
+        }
+    ],
     "numbers": [],
     "withdrawals": [],
     "channels": [],
