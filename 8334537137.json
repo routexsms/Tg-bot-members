@@ -62,7 +62,7 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0,
-            "status": "sold",
+            "status": "finished",
             "sold_to_user_id": 8574953592,
             "sold_at": 1780095718
         },
