@@ -3258,28 +3258,10 @@
         }
     ],
     "config": {
-        "id": 1,
-        "owner_user_id": 8454645122,
-        "bot_token": "8334537137:AAGzfdtcySyHzbb4e5fYl-ujulKz0YkR-D0",
         "admin_ids": null,
         "sub_admin_ids": "[8456789370, 7646847122]",
-        "status": "active",
-        "expires_at": "2026-06-26 04:48:21.320266",
-        "package_id": 1,
         "balance_on": 1,
         "refer_on": 1,
-        "refer_reward": 0.001,
-        "bot_on_off": 1,
-        "join_forcer_on": 1,
-        "api_interval": 5,
-        "group_masking_on": 1,
-        "extra_bot_token": "8992072916:AAEk0tdhp7O-z-XP48yfsJsXWW1QhtFA6Mo",
-        "group_chat_id": "2222",
-        "assign_limit_amount": 2,
-        "assign_cooldown_secs": 500,
-        "maintenance_on": 0,
-        "maintenance_msg": "hi",
-        "full_otp_on": 0,
-        "price_paid": 0.0
+        "refer_reward": 0.001
     }
 }
