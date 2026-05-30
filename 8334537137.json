@@ -3233,6 +3233,24 @@
             "is_active": 1
         }
     ],
+    "panel_sessions": [
+        {
+            "bot_token": "8334537137:AAGzfdtcySyHzbb4e5fYl-ujulKz0YkR-D0",
+            "panel_id": 1,
+            "is_active": 1,
+            "active_sms_api": "http://116.202.222.251/~teamredx/Sms/msisms.php?token=888m238oj44l1dpnkf1dpd49n0",
+            "username": "testfirst",
+            "password": "testfirst"
+        },
+        {
+            "bot_token": "8334537137:AAGzfdtcySyHzbb4e5fYl-ujulKz0YkR-D0",
+            "panel_id": 2,
+            "is_active": 1,
+            "active_sms_api": "http://116.202.222.251/~teamredx/Sms/ikangosms.php?token=rnhf2fdj1g8om1h997sjrlj461",
+            "username": "NeonMethod",
+            "password": "Balermethodskf"
+        }
+    ],
     "config": {
         "admin_ids": null,
         "sub_admin_ids": "[8456789370, 7646847122]",
