@@ -125,6 +125,20 @@
             "wa_linked": null,
             "otp_taken_count": 5,
             "lang": "en"
+        },
+        {
+            "id": 10,
+            "bot_token": "8334537137:AAGzfdtcySyHzbb4e5fYl-ujulKz0YkR-D0",
+            "user_id": 5977960152,
+            "username": "Nahidhossan",
+            "joined_at": "2026-05-31 01:16:25.242848",
+            "balance": 0.0,
+            "referred_by": null,
+            "banned": null,
+            "last_number_time": 1780168590,
+            "wa_linked": null,
+            "otp_taken_count": null,
+            "lang": "en"
         }
     ],
     "numbers": [
@@ -208,9 +222,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0005,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 5977960152,
+            "sold_at": 1780168590
         },
         {
             "id": 450,
@@ -220,9 +234,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0005,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 5977960152,
+            "sold_at": 1780168590
         },
         {
             "id": 451,
