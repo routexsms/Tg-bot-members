@@ -118,12 +118,12 @@
             "user_id": 1988126997,
             "username": null,
             "joined_at": "2026-05-31 00:10:28.993509",
-            "balance": 0.0005,
+            "balance": 0.001,
             "referred_by": null,
             "banned": null,
             "last_number_time": 1780166937,
             "wa_linked": null,
-            "otp_taken_count": 1,
+            "otp_taken_count": 2,
             "lang": "en"
         }
     ],
