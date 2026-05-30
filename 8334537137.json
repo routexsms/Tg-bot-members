@@ -9,7 +9,7 @@
             "balance": 0.001,
             "referred_by": null,
             "banned": 0,
-            "last_number_time": null,
+            "last_number_time": 1780128475,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
@@ -93,30 +93,6 @@
             "sold_at": 1780096407
         },
         {
-            "id": 45,
-            "bot_token": "8334537137:AAFBl3-Y9vbvzrxbZ483zW69TsOf0CjWbbk",
-            "app_name": "Whatsapp",
-            "number": "3197010562589",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0,
-            "status": "sold",
-            "sold_to_user_id": 8574953592,
-            "sold_at": 1780127564
-        },
-        {
-            "id": 46,
-            "bot_token": "8334537137:AAFBl3-Y9vbvzrxbZ483zW69TsOf0CjWbbk",
-            "app_name": "Whatsapp",
-            "number": "3197010562590",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0,
-            "status": "sold",
-            "sold_to_user_id": 8574953592,
-            "sold_at": 1780127564
-        },
-        {
             "id": 47,
             "bot_token": "8334537137:AAFBl3-Y9vbvzrxbZ483zW69TsOf0CjWbbk",
             "app_name": "Whatsapp",
@@ -124,9 +100,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7646847122,
+            "sold_at": 1780128475
         },
         {
             "id": 48,
@@ -136,9 +112,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7646847122,
+            "sold_at": 1780128475
         },
         {
             "id": 49,
@@ -8072,7 +8048,7 @@
     "payment_methods": [],
     "config": {
         "admin_ids": null,
-        "sub_admin_ids": "[8456789370]",
+        "sub_admin_ids": "[8456789370, 7646847122]",
         "balance_on": 1,
         "refer_on": 1,
         "refer_reward": 0.001
