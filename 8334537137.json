@@ -107,7 +107,7 @@
             "balance": 0.0,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780162147,
+            "last_number_time": 1780162446,
             "wa_linked": null,
             "otp_taken_count": 1,
             "lang": "en"
@@ -163,30 +163,6 @@
             "sold_at": 1780096407
         },
         {
-            "id": 371,
-            "bot_token": "8334537137:AAGzfdtcySyHzbb4e5fYl-ujulKz0YkR-D0",
-            "app_name": "Whatsapp",
-            "number": "3197010562915",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0,
-            "status": "sold",
-            "sold_to_user_id": 7173780287,
-            "sold_at": 1780162147
-        },
-        {
-            "id": 372,
-            "bot_token": "8334537137:AAGzfdtcySyHzbb4e5fYl-ujulKz0YkR-D0",
-            "app_name": "Whatsapp",
-            "number": "3197010562916",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0,
-            "status": "sold",
-            "sold_to_user_id": 7173780287,
-            "sold_at": 1780162147
-        },
-        {
             "id": 377,
             "bot_token": "8334537137:AAGzfdtcySyHzbb4e5fYl-ujulKz0YkR-D0",
             "app_name": "Whatsapp",
@@ -218,9 +194,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7173780287,
+            "sold_at": 1780162446
         },
         {
             "id": 380,
@@ -230,9 +206,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7173780287,
+            "sold_at": 1780162446
         },
         {
             "id": 381,
