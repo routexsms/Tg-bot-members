@@ -939,6 +939,10 @@
         },
         {
             "bot_token": "8334537137:AAF9HN_XtZmjhbdsaesWqHdhf5Hi3DCtDvI",
+            "dedup_key": "3197010561470_898825"
+        },
+        {
+            "bot_token": "8334537137:AAF9HN_XtZmjhbdsaesWqHdhf5Hi3DCtDvI",
             "dedup_key": "3197010561490_111061"
         },
         {
