@@ -51,6 +51,13 @@
             "login_type": "api",
             "login_api": "http://116.202.222.251/~teamredx/login/ikangoo.php?usr=&pass=",
             "sms_api": "http://116.202.222.251/~teamredx/Sms/ikangosms.php?token="
+        },
+        {
+            "id": 3,
+            "panel_name": "aa",
+            "login_type": "direct",
+            "login_api": "http://116.202.222.251/~teamredx/Sms/msisms.php?token=",
+            "sms_api": "22"
         }
     ],
     "packages": [
@@ -655,6 +662,11 @@
             "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
             "dedup_key": "447781508615_574521",
             "processed_at": "2026-05-31 16:24:56"
+        },
+        {
+            "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
+            "dedup_key": "447781517409_740017",
+            "processed_at": "2026-05-31 16:26:35"
         }
     ]
 }
