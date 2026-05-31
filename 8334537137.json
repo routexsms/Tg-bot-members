@@ -257,30 +257,6 @@
             "sold_at": 1780164801
         },
         {
-            "id": 587,
-            "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
-            "app_name": "Whatsapp",
-            "number": "3197010563943",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0004,
-            "status": "sold",
-            "sold_to_user_id": 7307395984,
-            "sold_at": 1780250662
-        },
-        {
-            "id": 588,
-            "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
-            "app_name": "Whatsapp",
-            "number": "3197010563946",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0004,
-            "status": "sold",
-            "sold_to_user_id": 7307395984,
-            "sold_at": 1780250662
-        },
-        {
             "id": 589,
             "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
             "app_name": "Whatsapp",
