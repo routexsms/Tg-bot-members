@@ -2593,7 +2593,7 @@
             "amount": 1.0,
             "method_name": "Binance",
             "account_details": "11111111111",
-            "status": "pending",
+            "status": "approved",
             "requested_at": "2026-05-31 22:35:10.567735"
         }
     ],
