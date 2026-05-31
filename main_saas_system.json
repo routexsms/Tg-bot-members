@@ -51,13 +51,6 @@
             "login_type": "api",
             "login_api": "http://116.202.222.251/~teamredx/login/ikangoo.php?usr=&pass=",
             "sms_api": "http://116.202.222.251/~teamredx/Sms/ikangosms.php?token="
-        },
-        {
-            "id": 3,
-            "panel_name": "aa",
-            "login_type": "direct",
-            "login_api": "http://116.202.222.251/~teamredx/Sms/msisms.php?token=",
-            "sms_api": "22"
         }
     ],
     "packages": [
