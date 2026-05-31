@@ -223,6 +223,20 @@
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
+        },
+        {
+            "id": 17,
+            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
+            "user_id": 2100037005,
+            "username": "tangit407",
+            "joined_at": "2026-06-01 00:59:04.644084",
+            "balance": 0.0,
+            "referred_by": null,
+            "banned": null,
+            "last_number_time": null,
+            "wa_linked": null,
+            "otp_taken_count": null,
+            "lang": "en"
         }
     ],
     "numbers": [
