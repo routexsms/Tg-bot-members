@@ -8,7 +8,7 @@
             "balance": 9.004,
             "referred_by": null,
             "banned": 0,
-            "last_number_time": 1780259256,
+            "last_number_time": 1780259557,
             "wa_linked": null,
             "otp_taken_count": 4,
             "lang": "bn"
@@ -138,7 +138,7 @@
             "balance": 9.0,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780259256,
+            "last_number_time": 1780259557,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "bn"
@@ -164,7 +164,7 @@
             "balance": 0.0,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780259256,
+            "last_number_time": 1780259557,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "bn"
@@ -177,7 +177,7 @@
             "balance": 0.0,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780259256,
+            "last_number_time": 1780259557,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
@@ -253,24 +253,13 @@
         {
             "bot_token": "8334537137:AAF9HN_XtZmjhbdsaesWqHdhf5Hi3DCtDvI",
             "app_name": "Whatsapp",
-            "number": "3197010576152",
+            "number": "3197010576153",
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0004,
             "status": "sold",
             "sold_to_user_id": 7646847122,
-            "sold_at": 1780259256
-        },
-        {
-            "bot_token": "8334537137:AAF9HN_XtZmjhbdsaesWqHdhf5Hi3DCtDvI",
-            "app_name": "Whatsapp",
-            "number": "3197010576153",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0004,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "sold_at": 1780259557
         },
         {
             "bot_token": "8334537137:AAF9HN_XtZmjhbdsaesWqHdhf5Hi3DCtDvI",
