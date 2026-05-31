@@ -9,7 +9,7 @@
             "balance": 9.004,
             "referred_by": null,
             "banned": 0,
-            "last_number_time": 1780249557,
+            "last_number_time": 1780249946,
             "wa_linked": null,
             "otp_taken_count": 4,
             "lang": "en"
@@ -149,7 +149,7 @@
             "balance": 9.0,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780249557,
+            "last_number_time": 1780249946,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
@@ -177,7 +177,7 @@
             "balance": 0.0,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780249557,
+            "last_number_time": 1780249946,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
@@ -257,30 +257,6 @@
             "sold_at": 1780164801
         },
         {
-            "id": 573,
-            "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
-            "app_name": "Whatsapp",
-            "number": "3197010563866",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0004,
-            "status": "sold",
-            "sold_to_user_id": 7646847122,
-            "sold_at": 1780249557
-        },
-        {
-            "id": 574,
-            "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
-            "app_name": "Whatsapp",
-            "number": "3197010563869",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0004,
-            "status": "sold",
-            "sold_to_user_id": 7646847122,
-            "sold_at": 1780249557
-        },
-        {
             "id": 575,
             "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
             "app_name": "Whatsapp",
@@ -312,9 +288,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0004,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7646847122,
+            "sold_at": 1780249946
         },
         {
             "id": 578,
@@ -324,9 +300,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0004,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7646847122,
+            "sold_at": 1780249946
         },
         {
             "id": 579,
