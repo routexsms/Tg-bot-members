@@ -6,7 +6,7 @@
             "user_id": 7646847122,
             "username": "Teamredadmin",
             "joined_at": "2026-05-30 01:47:57.998394",
-            "balance": 10.004,
+            "balance": 9.004,
             "referred_by": null,
             "banned": 0,
             "last_number_time": 1780244148,
@@ -146,7 +146,7 @@
             "user_id": 7646847122,
             "username": "Teamredadmin",
             "joined_at": "2026-05-31 22:14:56.532036",
-            "balance": 10.0,
+            "balance": 9.0,
             "referred_by": null,
             "banned": null,
             "last_number_time": 1780244148,
@@ -2571,7 +2571,18 @@
             "sold_at": null
         }
     ],
-    "withdrawals": [],
+    "withdrawals": [
+        {
+            "id": 1,
+            "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
+            "user_id": 7646847122,
+            "amount": 1.0,
+            "method_name": "Binance",
+            "account_details": "11111111111",
+            "status": "pending",
+            "requested_at": "2026-05-31 22:35:10.567735"
+        }
+    ],
     "channels": [
         {
             "id": 1,
