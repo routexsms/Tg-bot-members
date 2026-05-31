@@ -480,6 +480,51 @@
             "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
             "dedup_key": "3197010549711_450486",
             "processed_at": "2026-05-31 16:03:18"
+        },
+        {
+            "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
+            "dedup_key": "447781508622_715960",
+            "processed_at": "2026-05-31 16:05:33"
+        },
+        {
+            "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
+            "dedup_key": "3197010549735_531260",
+            "processed_at": "2026-05-31 16:08:13"
+        },
+        {
+            "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
+            "dedup_key": "3197010562755_463365",
+            "processed_at": "2026-05-31 16:09:18"
+        },
+        {
+            "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
+            "dedup_key": "3197010549746_544147",
+            "processed_at": "2026-05-31 16:10:13"
+        },
+        {
+            "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
+            "dedup_key": "3197010549713_833727",
+            "processed_at": "2026-05-31 16:10:26"
+        },
+        {
+            "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
+            "dedup_key": "3197010562785_747726",
+            "processed_at": "2026-05-31 16:11:14"
+        },
+        {
+            "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
+            "dedup_key": "3197010563299_978666",
+            "processed_at": "2026-05-31 16:12:16"
+        },
+        {
+            "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
+            "dedup_key": "3197010562756_275113",
+            "processed_at": "2026-05-31 16:12:28"
+        },
+        {
+            "bot_token": "8334537137:AAGUUE4fnEWMGpti6qw3pfsp7-E0U6ukCzk",
+            "dedup_key": "3197010549761_141819",
+            "processed_at": "2026-05-31 16:12:29"
         }
     ]
 }
