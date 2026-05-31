@@ -257,30 +257,6 @@
             "sold_at": 1780164801
         },
         {
-            "id": 521,
-            "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
-            "app_name": "Whatsapp",
-            "number": "3197010563539",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0004,
-            "status": "sold",
-            "sold_to_user_id": 5243220296,
-            "sold_at": 1780247328
-        },
-        {
-            "id": 522,
-            "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
-            "app_name": "Whatsapp",
-            "number": "3197010563549",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0004,
-            "status": "sold",
-            "sold_to_user_id": 5243220296,
-            "sold_at": 1780247328
-        },
-        {
             "id": 523,
             "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
             "app_name": "Whatsapp",
@@ -2542,24 +2518,7 @@
             "is_active": 1
         }
     ],
-    "panel_sessions": [
-        {
-            "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
-            "panel_id": 1,
-            "is_active": 1,
-            "active_sms_api": "http://116.202.222.251/~teamredx/Sms/msisms.php?token=uer1gavf18j6k0bruibbvbbqad",
-            "username": "testfirst",
-            "password": "testfirst"
-        },
-        {
-            "bot_token": "8334537137:AAE1mSxVtTzDvXiaGyN5knUUMKrbadVLWws",
-            "panel_id": 2,
-            "is_active": 1,
-            "active_sms_api": "http://116.202.222.251/~teamredx/Sms/ikangosms.php?token=e230uotnuerrv97fgqadu78gf1",
-            "username": "NeonMethod",
-            "password": "Balermethodskf"
-        }
-    ],
+    "reply_keyboards": [],
     "config": {
         "admin_ids": null,
         "sub_admin_ids": "[8456789370, 7646847122]",
