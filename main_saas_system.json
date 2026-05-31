@@ -1055,6 +1055,10 @@
         },
         {
             "bot_token": "8334537137:AAF9HN_XtZmjhbdsaesWqHdhf5Hi3DCtDvI",
+            "dedup_key": "3197010561656_973005"
+        },
+        {
+            "bot_token": "8334537137:AAF9HN_XtZmjhbdsaesWqHdhf5Hi3DCtDvI",
             "dedup_key": "3197010561672_665622"
         },
         {
