@@ -6,10 +6,10 @@
             "user_id": 7646847122,
             "username": "Teamredadmin",
             "joined_at": "2026-05-30 01:47:57.998394",
-            "balance": 9.00505,
+            "balance": 9.005550000000001,
             "referred_by": null,
             "banned": 0,
-            "last_number_time": 1780268244,
+            "last_number_time": 1780268329,
             "wa_linked": null,
             "otp_taken_count": 8,
             "lang": "en"
@@ -146,10 +146,10 @@
             "user_id": 7646847122,
             "username": "Teamredadmin",
             "joined_at": "2026-05-31 22:14:56.532036",
-            "balance": 9.001050000000001,
+            "balance": 9.001550000000002,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780268244,
+            "last_number_time": 1780268329,
             "wa_linked": null,
             "otp_taken_count": 4,
             "lang": "en"
@@ -174,10 +174,10 @@
             "user_id": 7646847122,
             "username": "Teamredadmin",
             "joined_at": "2026-05-31 22:35:45.465684",
-            "balance": 0.0010500000000000002,
+            "balance": 0.0015500000000000002,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780268244,
+            "last_number_time": 1780268329,
             "wa_linked": null,
             "otp_taken_count": 4,
             "lang": "en"
@@ -188,10 +188,10 @@
             "user_id": 7646847122,
             "username": "Teamredadmin",
             "joined_at": "2026-06-01 00:37:59.775938",
-            "balance": 0.0010500000000000002,
+            "balance": 0.0015500000000000002,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780268244,
+            "last_number_time": 1780268329,
             "wa_linked": null,
             "otp_taken_count": 4,
             "lang": "en"
@@ -202,10 +202,10 @@
             "user_id": 7646847122,
             "username": "Teamredadmin",
             "joined_at": "2026-06-01 02:46:44.238666",
-            "balance": 0.0010500000000000002,
+            "balance": 0.0015500000000000002,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780268244,
+            "last_number_time": 1780268329,
             "wa_linked": null,
             "otp_taken_count": 4,
             "lang": "en"
@@ -239,42 +239,6 @@
             "sold_at": 1780267794
         },
         {
-            "id": 37,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010562581",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0005,
-            "status": "sold",
-            "sold_to_user_id": 7646847122,
-            "sold_at": 1780268244
-        },
-        {
-            "id": 38,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010562582",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0005,
-            "status": "sold",
-            "sold_to_user_id": 7646847122,
-            "sold_at": 1780268244
-        },
-        {
-            "id": 39,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010562583",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.0005,
-            "status": "sold",
-            "sold_to_user_id": 7646847122,
-            "sold_at": 1780268244
-        },
-        {
             "id": 40,
             "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
             "app_name": "WhatsApp",
@@ -282,7 +246,7 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0005,
-            "status": "sold",
+            "status": "finished",
             "sold_to_user_id": 7646847122,
             "sold_at": 1780268244
         },
@@ -294,9 +258,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0005,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7646847122,
+            "sold_at": 1780268329
         },
         {
             "id": 42,
@@ -306,9 +270,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0005,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7646847122,
+            "sold_at": 1780268329
         },
         {
             "id": 43,
@@ -318,9 +282,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0005,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7646847122,
+            "sold_at": 1780268329
         },
         {
             "id": 44,
@@ -330,9 +294,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.0005,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7646847122,
+            "sold_at": 1780268329
         },
         {
             "id": 45,
