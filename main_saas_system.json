@@ -117,16 +117,6 @@
     "processed_otps": [
         {
             "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "dedup_key": "3197010563005_899335",
-            "processed_at": "2026-05-31 16:23:12"
-        },
-        {
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "dedup_key": "3197010549849_868644",
-            "processed_at": "2026-05-31 16:24:19"
-        },
-        {
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
             "dedup_key": "3197010563392_121408",
             "processed_at": "2026-05-31 16:24:36"
         },
@@ -6409,6 +6399,11 @@
             "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
             "dedup_key": "447781516733_829470",
             "processed_at": "2026-06-01 14:21:38"
+        },
+        {
+            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
+            "dedup_key": "447781506812_678313",
+            "processed_at": "2026-06-01 14:23:41"
         }
     ]
 }
