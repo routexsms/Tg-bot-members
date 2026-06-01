@@ -4769,6 +4769,11 @@
             "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
             "dedup_key": "3197010562837_148569",
             "processed_at": "2026-06-01 09:39:13"
+        },
+        {
+            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
+            "dedup_key": "447781516465_436666",
+            "processed_at": "2026-06-01 09:40:00"
         }
     ]
 }
