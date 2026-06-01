@@ -93,7 +93,7 @@
             "balance": 0.0,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780244202,
+            "last_number_time": 1780302496,
             "wa_linked": null,
             "otp_taken_count": 4,
             "lang": "en"
@@ -272,9 +272,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7319245225,
+            "sold_at": 1780302496
         },
         {
             "id": 266,
@@ -284,9 +284,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7319245225,
+            "sold_at": 1780302496
         },
         {
             "id": 267,
@@ -296,9 +296,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7319245225,
+            "sold_at": 1780302496
         },
         {
             "id": 268,
@@ -308,9 +308,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7319245225,
+            "sold_at": 1780302496
         },
         {
             "id": 269,
