@@ -334,9 +334,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7062047482,
+            "sold_at": 1780307322
         },
         {
             "id": 302,
@@ -346,9 +346,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7062047482,
+            "sold_at": 1780307322
         },
         {
             "id": 303,
@@ -358,9 +358,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7062047482,
+            "sold_at": 1780307322
         },
         {
             "id": 304,
@@ -370,9 +370,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 7062047482,
+            "sold_at": 1780307322
         },
         {
             "id": 305,
