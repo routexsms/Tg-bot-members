@@ -247,7 +247,7 @@
             "balance": 0.0,
             "referred_by": null,
             "banned": null,
-            "last_number_time": 1780318888,
+            "last_number_time": 1780318896,
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
@@ -355,54 +355,6 @@
             "sold_at": 1780318716
         },
         {
-            "id": 605,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010564064",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.1,
-            "status": "sold",
-            "sold_to_user_id": 6315261936,
-            "sold_at": 1780318888
-        },
-        {
-            "id": 606,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010574131",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.1,
-            "status": "sold",
-            "sold_to_user_id": 6315261936,
-            "sold_at": 1780318888
-        },
-        {
-            "id": 607,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010574307",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.1,
-            "status": "sold",
-            "sold_to_user_id": 6315261936,
-            "sold_at": 1780318888
-        },
-        {
-            "id": 608,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010574327",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.1,
-            "status": "sold",
-            "sold_to_user_id": 6315261936,
-            "sold_at": 1780318888
-        },
-        {
             "id": 609,
             "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
             "app_name": "WhatsApp",
@@ -410,9 +362,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 6315261936,
+            "sold_at": 1780318896
         },
         {
             "id": 610,
@@ -422,9 +374,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 6315261936,
+            "sold_at": 1780318896
         },
         {
             "id": 611,
@@ -434,9 +386,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 6315261936,
+            "sold_at": 1780318896
         },
         {
             "id": 612,
@@ -446,9 +398,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 6315261936,
+            "sold_at": 1780318896
         },
         {
             "id": 613,
