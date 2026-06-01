@@ -117,11 +117,6 @@
     "processed_otps": [
         {
             "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
-            "dedup_key": "3197010548671_573009",
-            "processed_at": "2026-05-31 19:16:09"
-        },
-        {
-            "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
             "dedup_key": "3197010561046_424264",
             "processed_at": "2026-05-31 19:18:10"
         },
