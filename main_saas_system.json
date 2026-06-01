@@ -3534,6 +3534,16 @@
             "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
             "dedup_key": "3197010560102_344081",
             "processed_at": "2026-06-01 06:53:15"
+        },
+        {
+            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
+            "dedup_key": "447781517853_944353",
+            "processed_at": "2026-06-01 06:53:37"
+        },
+        {
+            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
+            "dedup_key": "447781506789_420948",
+            "processed_at": "2026-06-01 06:54:11"
         }
     ]
 }
