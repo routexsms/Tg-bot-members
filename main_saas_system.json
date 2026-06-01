@@ -6424,6 +6424,11 @@
             "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
             "dedup_key": "447781507198_841197",
             "processed_at": "2026-06-01 20:22:16"
+        },
+        {
+            "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
+            "dedup_key": "3197010504635_841836",
+            "processed_at": "2026-06-01 20:23:11"
         }
     ]
 }
