@@ -117,16 +117,6 @@
     "processed_otps": [
         {
             "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
-            "dedup_key": "3197010561099_424194",
-            "processed_at": "2026-05-31 19:26:11"
-        },
-        {
-            "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
-            "dedup_key": "3197010562549_909196",
-            "processed_at": "2026-05-31 19:26:12"
-        },
-        {
-            "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
             "dedup_key": "3197010563767_555891",
             "processed_at": "2026-05-31 19:28:13"
         },
