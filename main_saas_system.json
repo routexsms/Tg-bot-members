@@ -6834,6 +6834,26 @@
             "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
             "dedup_key": "3197010560789_463230",
             "processed_at": "2026-06-01 16:38:13"
+        },
+        {
+            "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
+            "dedup_key": "447781506844_443173",
+            "processed_at": "2026-06-01 16:38:55"
+        },
+        {
+            "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
+            "dedup_key": "3197010545747_234646",
+            "processed_at": "2026-06-01 16:39:16"
+        },
+        {
+            "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
+            "dedup_key": "447781507165_764505",
+            "processed_at": "2026-06-01 16:39:16"
+        },
+        {
+            "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
+            "dedup_key": "447781517177_944271",
+            "processed_at": "2026-06-01 16:39:37"
         }
     ]
 }
