@@ -265,54 +265,6 @@
             "sold_at": 1780268244
         },
         {
-            "id": 149,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010562693",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.1,
-            "status": "sold",
-            "sold_to_user_id": 6106455106,
-            "sold_at": 1780294681
-        },
-        {
-            "id": 150,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010562694",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.1,
-            "status": "sold",
-            "sold_to_user_id": 6106455106,
-            "sold_at": 1780294681
-        },
-        {
-            "id": 151,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010562695",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.1,
-            "status": "sold",
-            "sold_to_user_id": 6106455106,
-            "sold_at": 1780294681
-        },
-        {
-            "id": 152,
-            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
-            "app_name": "WhatsApp",
-            "number": "3197010562696",
-            "country_code": "31",
-            "country_name": "Netherlands",
-            "otp_rate": 0.1,
-            "status": "sold",
-            "sold_to_user_id": 6106455106,
-            "sold_at": 1780294681
-        },
-        {
             "id": 153,
             "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
             "app_name": "WhatsApp",
@@ -320,9 +272,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 6106455106,
+            "sold_at": 1780294707
         },
         {
             "id": 154,
@@ -332,9 +284,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 6106455106,
+            "sold_at": 1780294707
         },
         {
             "id": 155,
@@ -344,9 +296,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 6106455106,
+            "sold_at": 1780294707
         },
         {
             "id": 156,
@@ -356,9 +308,9 @@
             "country_code": "31",
             "country_name": "Netherlands",
             "otp_rate": 0.1,
-            "status": "available",
-            "sold_to_user_id": null,
-            "sold_at": null
+            "status": "sold",
+            "sold_to_user_id": 6106455106,
+            "sold_at": 1780294707
         },
         {
             "id": 157,
