@@ -335,6 +335,20 @@
             "wa_linked": null,
             "otp_taken_count": null,
             "lang": "en"
+        },
+        {
+            "id": 25,
+            "bot_token": "8334537137:AAH-Thh5dJ5dOG2TVbM1Gki5dXqICaOPgVU",
+            "user_id": 6315261936,
+            "username": "Mamoon_khan",
+            "joined_at": "2026-06-01 15:12:53.190560",
+            "balance": 0.0,
+            "referred_by": null,
+            "banned": null,
+            "last_number_time": null,
+            "wa_linked": null,
+            "otp_taken_count": null,
+            "lang": "en"
         }
     ],
     "numbers": [
