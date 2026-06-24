@@ -434,12 +434,30 @@
             "is_active": 1
         }
     ],
-    "reply_keyboards": [],
     "config": {
+        "id": 1,
+        "owner_user_id": 8454645122,
+        "bot_token": "8003110573:AAF9wz3sm1HLty1c35joGG3ScB4fvj5wWXQ",
         "admin_ids": null,
         "sub_admin_ids": "[8456789370, 7646847122]",
+        "status": "active",
+        "expires_at": "2026-07-26 04:48:21.320266",
+        "package_id": 1,
         "balance_on": 1,
         "refer_on": 1,
-        "refer_reward": 0.001
+        "refer_reward": 0.001,
+        "bot_on_off": 1,
+        "join_forcer_on": 1,
+        "api_interval": 5,
+        "group_masking_on": 1,
+        "extra_bot_token": "8992072916:AAEk0tdhp7O-z-XP48yfsJsXWW1QhtFA6Mo",
+        "group_chat_id": "+39qAuSfz-CBkMmQ9",
+        "assign_limit_amount": 4,
+        "assign_cooldown_secs": 500,
+        "full_otp_on": 0,
+        "maintenance_on": 0,
+        "maintenance_msg": "hi",
+        "created_at": "2026-06-24 12:04:39",
+        "price_paid": 0.0
     }
 }
