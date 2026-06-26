@@ -78,7 +78,8 @@
             "name": "1 month",
             "days": 30,
             "price": 5.0,
-            "payment_method": "bkash"
+            "payment_method": "bkash",
+            "is_active": 1
         }
     ],
     "bot_subscriptions": [
